@@ -24,6 +24,9 @@ I'm passionate about building mobile and web applications that solve real-world 
 * Advanced Android Development
 * MERN Stack
 
+🌐 Portfolio
+
+Portfolio: https://sofiya234.github.io/portfolio-website/)
 ### 📫 Connect With Me
 
 * 💼 LinkedIn: (https://www.linkedin.com/in/sofiya-mujawar-24bb152ba)
