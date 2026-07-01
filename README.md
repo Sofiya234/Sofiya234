@@ -26,10 +26,10 @@ I'm passionate about building mobile and web applications that solve real-world 
 
 🌐 Portfolio
 
-Portfolio: https://sofiya234.github.io/portfolio-website/)
+Portfolio: https://sofiya234.github.io/portfolio-website/
 ### 📫 Connect With Me
 
-* 💼 LinkedIn: (https://www.linkedin.com/in/sofiya-mujawar-24bb152ba)
+* 💼 LinkedIn: https://www.linkedin.com/in/sofiya-mujawar-24bb152ba
 * 📧 Email: sofiyamujawar827@gmail.com
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
