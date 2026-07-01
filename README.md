@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Sofiya Mujawar 👋
 
-<!--
-**Sofiya234/Sofiya234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Android & Full Stack Developer
 
-Here are some ideas to get you started:
+I'm passionate about building mobile and web applications that solve real-world problems. I enjoy learning new technologies and continuously improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+* 🩺 **CarePoint** – Doctor Appointment App
+* ❤️ **Healthcare Donation Platform** – Web & Android Donation System
+* 🚜 **AgroRover** – Agriculture Service Platform
+* 📋 **Student Task Manager** – Android App
+
+### 💻 Tech Stack
+
+**Languages:** Java, JavaScript, HTML, CSS, SQL
+**Technologies & Tools:** React.js, Node.js, Express.js, Android Studio, Firebase, MongoDB, Supabase, Git, GitHub, Postman
+
+### 🌱 Currently Learning
+
+* Flutter
+* Dart
+* Kotlin
+* Advanced Android Development
+* MERN Stack
+
+### 📫 Connect With Me
+
+* 💼 LinkedIn: (https://www.linkedin.com/in/sofiya-mujawar-24bb152ba)
+* 📧 Email: sofiyamujawar827@gmail.com
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
